@@ -357,7 +357,8 @@ ASSISTIDA: 31/03/2025
 EXERCÍCIO: 31/03/2025
 REVISADA:  26/02/2026
 
-Revisando a aula 14.
+
+
 ----------------------------------------------------------
 03/04/2025 - Aula 15 - Navegando no histórico
 
