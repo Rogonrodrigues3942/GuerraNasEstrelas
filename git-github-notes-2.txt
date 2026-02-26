@@ -357,8 +357,10 @@ ASSISTIDA: 31/03/2025
 EXERCÍCIO: 31/03/2025
 REVISADA:  26/02/2026
 
+Notas:
 
-
+Esta aula tratou de permissionar colaboradores, acessarem o repositório, com objetivo de praticar alterações de arquivos e ambos commitarem o constéudo. Realizarem "git pull".
+Tema interessqante e importante.
 ----------------------------------------------------------
 03/04/2025 - Aula 15 - Navegando no histórico
 
