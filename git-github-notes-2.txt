@@ -1,0 +1,771 @@
+# Iniciado: 29/03/2025
+
+Curso: Git e contribuições para projetos Open Source
+
+visitar os projetos no GitHub: @BrOrlandi
+
+
+*** Seção 1 - Introdução ao Git ***
+
+21/01/2026 - Aula 2 - Gerência de Configuração de Software
+
+
+ASSISTIDA: 21/03/2025
+EXERCÍCIO: 21/03/2025
+REVISADA:  21/01/2026
+
+Artefatos:
+
+- Código fonte;
+
+- Documentação de Software;
+
+- Manual do usuário.
+----------------------------------------------------------
+22/01/2026 - Aula 3 - Controle de Versão
+
+ASSISTIDA: 22/01/2026
+EXERCÍCIO: 22/01/2026
+REVISADA:  xx/xx/2026
+
+
+ANOTAÇÕES:
+
+Link: https://chatgpt.com/share/6972087a-f6e8-800e-9b8f-a8ef23f48918
+
+https://www.udemy.com/course/git-e-github/learn/lecture/7149612#overview
+
+📌 O que é controle de versão?
+
+Controle de versão é uma forma de registrar todas as mudanças feitas em arquivos (código, textos, projetos).
+Assim você pode:
+
+Voltar para uma versão antiga
+
+Saber quem mudou o quê e quando
+
+Trabalhar em equipe sem bagunçar os arquivos
+
+----------------------------------------------------------
+22/01/2026 - Aula 4 - Git e alternativas
+
+
+ASSISTIDA: 22/01/2026
+EXERCÍCIO: 22/01/2026
+REVISADA:  xx/xx/2026
+
+
+ANOTAÇÕES:
+
+📌 Resumo da Aula – Git, GitHub e Repositórios Open Source
+
+Git ≠ GitHub
+
+Git é a ferramenta de controle de versão (controla histórico, mudanças e colaboração no código).
+
+GitHub é um servidor de hospedagem de repositórios, onde você armazena projetos Git e colabora com outras pessoas.
+
+Resumo - link: https://chatgpt.com/g/g-p-6970b344b058819180bf7dc4ff85f485/c/69720be8-76d0-8327-9581-00f312badf8f
+
+----------------------------------------------------------
+30/01/2026 - Aula 5 - Ferramentas Git
+
+
+ASSISTIDA: 30/01/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA:  xx/xx/2026
+
+Solicitação:
+
+Por fvr vc pode resumir a aula com principais tópicos sobre "Ferrametas Git? Use a transcrição como base.
+
+Segue : 
+
+
+
+
+ANOTAÇÕES:
+----------------------------------------------------------
+
+
+*** Fim  da Seção 1 ***
+----------------------------------------------------------
+*** Seção 2 - Básico em Git ***
+
+30/01/2026 - Aula 6 - Chave SSH e documentação Git
+
+ASSISTIDA: 31/01/2026
+EXERCÍCIO: XX/XX/2026
+REVISADA:  XX/XX/2026
+
+Notation:>
+
+De forma **simples e direta** 👇
+
+🔑 **Chave SSH** é um **jeito seguro de se identificar** em outro computador ou serviço (como o GitHub), **sem precisar digitar usuário e senha toda hora**.
+
+### Em outras palavras
+
+* Você cria **duas chaves**:
+
+  * 🔒 **Chave privada** → fica só no seu computador
+  * 🔓 **Chave pública** → você cadastra no servidor (ex: GitHub)
+* Quando você se conecta, o servidor confirma que **você é você**, comparando essas chaves.
+
+### Pra que serve na prática?
+
+* Fazer `git push`, `git pull`, `git clone` **sem senha**
+* Mais **segurança** do que login e senha
+* Muito usada por **desenvolvedores**
+
+👉 **Resumo em uma frase:**
+
+> Chave SSH é uma **identidade digital segura** que permite acessar servidores e repositórios sem usar senha.
+
+
+///////////////////////////////////////////////////
+
+Boa pergunta — isso é **fundamental** entender 👍
+
+### 🔑 Qual chave fica no seu laptop?
+
+👉 **A chave que fica no seu laptop é a CHAVE PRIVADA.**
+Ela **NUNCA** deve ser compartilhada.
+
+### 📍 Onde encontrar essa chave no seu dispositivo (Windows + Git Bash)?
+
+No seu caso (Git Bash / VS Code), ela fica nesta pasta padrão:
+
+```
+C:\Users\SEU_USUARIO\.ssh\
+```
+
+Ou no formato do Git Bash:
+
+```
+/c/Users/SEU_USUARIO/.ssh/
+```
+
+### 🗂️ Arquivos mais comuns dentro da pasta `.ssh`
+
+| Arquivo       | O que é                               |
+| ------------- | ------------------------------------- |
+| `id_rsa`      | 🔒 **chave privada** (fica no laptop) |
+| `id_rsa.pub`  | 🔓 chave pública (vai para o GitHub)  |
+| `known_hosts` | lista de servidores já acessados      |
+
+👉 **O arquivo SEM `.pub` é o mais importante**
+👉 **Esse é o que identifica você**
+
+### ⚠️ Regra de ouro
+
+* ❌ **Nunca envie o `id_rsa`**
+* ✅ Só copie e cadastre o conteúdo do `id_rsa.pub`
+
+### 🧪 Como conferir pelo terminal
+
+No Git Bash:
+
+```bash
+ls ~/.ssh
+```
+
+Se quiser, no próximo passo posso:
+
+* ✅ te ajudar a **confirmar se sua chave está correta**
+* ✅ explicar **como o Git usa essa chave**
+* ✅ revisar **se você criou mais chaves do que precisava**
+
+
+COMANDO PARA CHECAR AUTENTICAÇÃO DE CHAVE SSH NO GITHUB
+
+***** Testing your SSH connection *****
+
+ssh -T git@github.com
+
+
+29/03/2025 - Aula 7 - Primeiros comandos Git
+
+rever aula *****
+
+ASSISTIDA: XX/XX/2026
+EXERCÍCIO: XX/XX/2026
+REVISADA:  09/02/2026
+
+
+
+----------------------------------------------------------
+29/03/2025 - Aula 8 - Criando Repositório no GitHub
+
+ASSISTIDA: XX/XX/2026
+EXERCÍCIO: XX/XX/2026
+REVISADA:  09/02/2026 *****
+
+git remote add origin https://github.com/Rogonrodrigues3942/StarWarsRepo.git
+
+git branch -M principal 
+
+git push -u origem principal
+
+
+git remote add origin git@github.com:Rogonrodrigues3942/StarWarsRepo.git
+
+git branch -M main
+ 
+git push -u origem principal
+
+git push -u origem main
+
+
+----------------------------------------------------------
+30/03/2025 - Aula 9 - Editando o Readme.md
+
+rever 09/02/2026
+
+ASSISTIDA: 30/03/2026
+EXERCÍCIO: 30/03/2026
+REVISADA:  09/02/2026
+
+
+
+----------------------------------------------------------
+
+30/03/2025 - Aula 10 - Revisão dos Comandos
+
+
+ASSISTIDA: 30/03/2025
+EXERCÍCIO: 30/03/2025
+REVISADA:  11/02/2026
+
+1 - git add .
+
+2 - git commit -m "message"
+
+3 - git status
+
+4 - git log
+
+5 - git push
+
+
+Git Workflow
+
+Editando arquivo personagensS
+
+📌 O que aprendemos nessa revisão?
+
+✅ git status  -->  mostra a situação do repositório
+✅ git add -->   prepara arquivos para commit
+✅ git commit --> cria o registro de versão
+✅ git restore --> desfaz alterações
+✅ git push -->  envia para o repositório remoto
+
+
+******** Configuração de editor de texto 
+Por fvr me explique o comando " git config --global core.editor ". Outro ponto que desejo aprender, é possível listar ou consultar qual editor de texto configurado no git no dispositvo?
+
+******** Fim da dúvida
+
+Notes:
+
+gitt add <lista de arquivos>
+
+* O "git add" recebe uma lista de arquivos como parâmetros. Pode enviar todos para o diretório remoto digitando "." (ponto final) ou enviar um arquivo.
+
+
+git push
+
+* O comando "git push" sincroniza o(s) arquivo(s) commitados com com repositório remoto (GitHub).
+
+
+*** Fazer exercicio com "git checkout --"; o objetivo é desfazer mudanças em arquivos antes do commit. ***
+----------------------------------------------------------
+
+31/03/2025 - Aula 11 - Estado dos Arquivos no Git
+
+ASSISTIDA: 31/03/2025
+EXERCÍCIO: 31/03/2025
+REVISADA:  12/02/2026
+
+untracked - monitorado;
+
+modified - alterado;
+
+staged - arquivos aguardando para serem comentados;
+
+commited - arquivos comentados prontos para o push.
+
+
+*** Diff ***
+
+git diff HEAD~1
+
+git pull
+
+
+
+****** Notes ******
+
+🔹 1. Untracked (Não Monitorado) --> arquivos novos, recém criados;
+
+🔹 2. Modified (Modificado) --> arquivo criado e já ococrreu pelo menos um push, foi editado;
+
+🔹 3. Staged (Preparado / Em Stage) --> arquivo disponível para o commit
+
+🔹 4. Committed (Consolidado no Repositório) --> arquivo commitado, aguardando a realizado do push.
+
+
+
+----------------------------------------------------------
+
+31/01/2025 - Aula 12 - Exercício de commit
+
+ASSISTIDA: 31/03/2025
+EXERCÍCIO: 31/03/2025
+REVISADA:  13/02/2026
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 03: Históricos e conflitos
+
+Matéria: Conflitos e colaboração.
+
+01/04/2025 - Aula 13 - Comandos Clone e Pull
+
+ASSISTIDA: 31/03/2025
+EXERCÍCIO: 31/03/2025
+REVISADA:  xx/02/2026
+
+
+* git clone: baixa um repositório com todo o seu conteúdo.
+
+É uma maneira fácil de conexão com repositório remoto.
+
+
+* git pull 
+
+baixa as alterações do repositório remoto, sincroniza as alterações realizadas em uma branch.
+
+Criado segundo repositório e atualizado o primeiro repositório.
+
+***** NOTAS *****
+
+----------------------------------------------------------
+01/04/2025 - Aula 14 - Exercícios de colaboração em repositório
+
+----------------------------------------------------------
+03/04/2025 - Aula 15 - Navegando no histórico
+
+
+1 - Retornar as versões anteriores, acessando estados como arquivos e pastas do momento do determinado commit.
+
+Digite o comando:
+
+$ git checkout < commit >
+
+Retorna o estado 'detached HEAD'. significa que saiu do topo da pilha dos commits. 
+
+Esta ação é útil para detectar bugs para versões de arquivos e pastas anteriores ao topo da pilha. 
+
+** É recomendado ao se resgatar versões anteriores de arquivos e pastas, não realizar commits no ponto resgatado e sim criar uma nova branch e realizar os commits, retornar a branch master e voltar ao topo da fila. 
+
+2 - Reverter estado de branch, voltar ao topo da pilha de commits. Digite o comando:
+
+$ git checkout master
+
+*** realizar o exercício depois. ***
+
+
+----------------------------------------------------------
+
+03/04/2025 - Aula 16 - Desfazendo com checkout
+
+1 - Desfazendo mudanças  que estão no topo da pilha de commits, deigite o comando:
+
+$ git checkout -- path_do_arquivo
+
+Exemplo:
+
+$ git checkout -- personagens
+
+Para checar a ação de reversão de mudaças, digite o comando:
+
+$ git status
+
+
+2 - Desfazendo alterações desde o 
+
+
+----------------------------------------------------------
+
+08/04/2025 - Aula 17 - Desfazendo com Revert e Reeset
+<<<<<<< HEAD
+
+$ git revert < nº do commit(total/parcial) >
+
+Um novo commit que desfaz as alterações do commit especificado.
+
+
+$ git reset --hard < nº commit >
+
+Reconfigura e remove todas as alterações. Cuidado! Usar com bom senso.
+=======
+>>>>>>> 08534f410b33b38b0a08239da83c3b593e0c76f9
+
+----------------------------------------------------------
+
+08/04/2025 - Aula 18 - Conflitos
+
+
+Qual o comando git para não pedir passphrase
+
+1º passo:
+
+$ eval $(ssh-agent -s)  # Inicia o ssh-agent
+
+
+2º passo:
+
+ssh-add ~/.ssh/id_rsa  # Adiciona a chave privada ao agente
+
+
+
+----------------------------------------------------------
+
+09/04/2025 - Aula 19 - Exercícios de conflitos
+
+Rever aula, interessante o assuntos.
+
+----------------------------------------------------------
+
+09/04/2025 - Aula 20 - Resolvendo conflitos com Merge
+
+Rever aula, interessante o assuntos. Continuação da aula 19.
+
+----------------------------------------------------------
+
+09/04/2025 - Aula 21 - Visualizando o histórico em uma Interface Gráfica
+
+Utilizar a interface gráfica "Collab GitEye" 
+
+Rever aula, interessante a interface gráfica. Ótima para análise de históricos.
+
+----------------------------------------------------------
+
+
+*** Fim  da Seção 3***
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 4: Branching, Merge e Revase
+
+24/04/2025 - Aula 22 - Branching
+
+🟢 Branch (ramo)
+
+Um branch no Git é como uma linha do tempo paralela do seu projeto.
+
+Ele permite que você trabalhe em mudanças sem afetar o código principal (geralmente o master ou main).
+
+
+
+➡️ Exemplo simples:
+
+Imagine que o master é a versão do site que está no ar.
+
+Você cria um branch chamado nova-funcionalidade para trabalhar numa melhoria sem quebrar o site atual.
+
+
+
+🌿 Branching (ramificação)
+
+É o ato de criar e usar branches.
+
+Ou seja, quando você cria, muda ou mescla um branch, você está fazendo branching.
+
+
+Conteúdo:
+
+1 - Comando "git branch", traz todos os branches criados no seu repositório remoto,  o que está marcado com asterisco (*) é o ramo corrente, sendo utilizado no momento de sua atualização.
+
+$ git branch
+  main
+  master
+* nova-branch
+
+
+2 -  Criando um novo branch, comando: git branch "nome-do-novo-branch"
+
+Exemplo:
+
+$ git branch novo-branch
+
+
+3 - Deletando um  branch, comando: git branch -d "nome-do-branch"
+
+Exemplo:
+
+$ git branch -d novo-branch
+
+
+4 - Trocando de  branch, comando: git checkout "nome-do-branch"
+
+Exemplo:
+
+$ git checkout novo-branch
+
+ASSISTIDA: 24/04/2025
+EXERCÍCIO: 24/04/2025
+REVISADA:  xx/02/2026
+
+---------------------------------------------------------
+24/04/2025 - Aula 23 - Exercício de Branchs
+
+Não é necessário realizar push a cada commit realizado.
+
+Também é recomendável criar a nova branch no GitHub (repositório remoto).
+
+
+
+
+ASSISTIDA: 24/04/2025
+EXERCÍCIO: 24/04/2025
+
+----------------------------------------------------------
+
+24/04/2025 - Aula 24 Git Merge e Exercício
+
+
+🧠 Explicação simples:
+Imagine que você tem duas linhas de trabalho no seu projeto:
+
+A branch principal: master ou main
+
+Uma branch de desenvolvimento: nova-feature
+
+Depois de fazer mudanças e commits na nova-feature, você quer unir essas mudanças com a branch principal.
+É aí que entra o comando:
+
+
+git merge nova-feature
+Esse comando pega todas as mudanças da branch nova-feature e traz para a branch atual (geralmente master ou main).
+
+🧰 Exemplo prático:
+Você está na branch principal:
+
+git checkout main
+Faz o merge da feature:
+
+
+git merge nova-feature
+Pronto! Agora as mudanças da nova-feature fazem parte da main.
+
+🚨 E se der conflito?
+Às vezes, os arquivos mudaram nas duas branches e o Git não sabe qual usar. Isso gera um conflito, e você precisa escolher manualmente o que fica.
+
+
+*** Conteúdo do curso:
+
+1 - Estar no branch "master", digite o comando :
+
+$ git merge nova-branch
+
+
+2 - Resolva os conflitos no arquivo correspondente, de forma manual;
+
+
+3 - Realize a adição:
+
+$ git add . 
+
+
+4 - Realize o comentários:
+
+$ git commit
+
+
+5 - Realize o push para branch master
+
+$ git push
+
+ASSISTIDA: 24/04/2025
+EXERCÍCIO: 24/04/2025
+
+
+----------------------------------------------------------
+
+25/04/2025 - Aula 25 - Git Release
+
+O comando "git rebase" é usado para reorganizar a história dos commits, como se fosse "recontar a história de outro jeito", deixando tudo mais limpo e linear.
+
+O "git rebase" pega os commits de uma branch e coloca por cima da base de outra branch.
+
+
+Diferença entre merge e rebase:
+
+merge: junta os históricos das branches e cria um commit de merge (comum em projetos colaborativos).
+
+rebase: reaplica os commits um por um por cima da outra branch, criando um histórico mais limpo e linear.
+
+ASSISTIDA: 25/04/2025
+EXERCÍCIO: 25/04/2025
+REVISTA: 26/04/2025
+
+----------------------------------------------------------
+25/04/2025 - Aula 26 - Exercício de Rebase
+
+Praticando:
+
+1º - Criar uma nova branch
+
+$ git checkout -b branch2
+
+
+2º - Retornar para branch 'master':
+
+$ git checkout master
+
+
+3º - Adicionar novos personagens  no arquivo personagens
+
+
+4º - Realize o adicionamento no GitHub
+
+$ git add .
+
+
+5º - Realize o comentário
+
+$ git commit
+
+
+6º - Mude para a "branch2"
+
+$ git checkout branch2
+
+
+ASSISTIDA: 25/04/2025
+EXERCÍCIO: 26/04/2025
+----------------------------------------------------------
+
+26/04/2025 - Aula 27 - Git Fetch
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
+
+O comando "git fetch" só olha o que mudou no GitHub (ou outro repositório remoto) e traz essas mudanças para o seu repositório local, mas não altera seus arquivos nem junta nada ainda.
+
+
+Quando usar:
+
+Para ver o que mudou no repositório remoto sem alterar sua branch local.
+
+Para ter controle maior do que será integrado ao seu projeto.
+
+
+Conteúdo da aula:
+
+
+1º passo - realizar git merge da branch2 (diretório atrasado)
+
+$ git merge branch2
+
+
+2º passo - Adicionar novo personagem (diretório atualizado)
+
+
+3º Passo - Aplicar "git fetch"
+
+A
+
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 28 - Tags
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
+
+----------------------------------------------------------
+
+*** Fim  da Seção 4***
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 5: Colaboração com Open Source
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 6: Além do Básico
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+
+
+
+
+
+
