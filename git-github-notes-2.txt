@@ -188,8 +188,8 @@ ssh -T git@github.com
 
 rever aula *****
 
-ASSISTIDA: XX/XX/2026
-EXERCÍCIO: XX/XX/2026
+ASSISTIDA: 29/03/2025
+EXERCÍCIO: 29/03/2025
 REVISADA:  09/02/2026
 
 
@@ -364,6 +364,9 @@ Tema interessqante e importante.
 ----------------------------------------------------------
 03/04/2025 - Aula 15 - Navegando no histórico
 
+ASSISTIDA: 03/04/2025
+EXERCÍCIO: 03/04/2025
+REVISADA:  26/02/2026
 
 1 - Retornar as versões anteriores, acessando estados como arquivos e pastas do momento do determinado commit.
 
@@ -387,6 +390,10 @@ $ git checkout master
 ----------------------------------------------------------
 
 03/04/2025 - Aula 16 - Desfazendo com checkout
+
+ASSISTIDA: 03/04/2025
+EXERCÍCIO: 03/04/2025
+REVISADA:  26/02/2026
 
 1 - Desfazendo mudanças  que estão no topo da pilha de commits, deigite o comando:
 
