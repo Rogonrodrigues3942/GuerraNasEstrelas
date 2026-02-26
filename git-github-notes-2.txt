@@ -334,7 +334,7 @@ Matéria: Conflitos e colaboração.
 
 ASSISTIDA: 31/03/2025
 EXERCÍCIO: 31/03/2025
-REVISADA:  xx/02/2026
+REVISADA:  26/02/2026
 
 
 * git clone: baixa um repositório com todo o seu conteúdo.
@@ -353,6 +353,11 @@ Criado segundo repositório e atualizado o primeiro repositório.
 ----------------------------------------------------------
 01/04/2025 - Aula 14 - Exercícios de colaboração em repositório
 
+ASSISTIDA: 31/03/2025
+EXERCÍCIO: 31/03/2025
+REVISADA:  26/02/2026
+
+Revisando a aula 14.
 ----------------------------------------------------------
 03/04/2025 - Aula 15 - Navegando no histórico
 
