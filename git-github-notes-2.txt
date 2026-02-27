@@ -470,6 +470,24 @@ Está aula gerou o problema, o conflito.  Na próxima aula terá a solução do 
 
 Rever aula, interessante o assuntos. Continuação da aula 19.
 
+ASSISTIDA: 09/04/2025
+EXERCÍCIO: 09/04/2025
+REVISADA:  27/02/2026
+
+A solução do conflito sugerida foi:
+
+O usuário 2 faz a alteração em seu arquivos de planetas, mesclando as informações e segue como se fosse um mudança normal.
+
+Roteiro da correção
+
+1 - Correção manualmente, mesclando os dados na ordem que achar melhor;
+2 - git add .
+3 - git commit  
+    Abre-se o editor do texto, confirma ou complementa o commit oferecido automaticamente;
+4 - git push;
+
+Assim está resolvido o conflito de modo prático.
+
 ----------------------------------------------------------
 
 09/04/2025 - Aula 21 - Visualizando o histórico em uma Interface Gráfica
