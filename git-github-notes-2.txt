@@ -511,7 +511,7 @@ Para visualizar os recursos gráficos, o repositório deve ser obrigatoriamente 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-*** Seção 4: Branching, Merge e Revase
+*** Seção 4: Branching, Merge e Rebase
 
 24/04/2025 - Aula 22 - Branching
 
