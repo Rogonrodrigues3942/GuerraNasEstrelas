@@ -426,7 +426,9 @@ $ git reset --hard < nº commit >
 Reconfigura e remove todas as alterações. Cuidado! Usar com bom senso.
 =======
 >>>>>>> 08534f410b33b38b0a08239da83c3b593e0c76f9
-
+ASSISTIDA: 08/04/2025
+EXERCÍCIO: 08/04/2025
+REVISADA:  26/02/2026
 ----------------------------------------------------------
 
 08/04/2025 - Aula 18 - Conflitos
@@ -442,6 +444,10 @@ $ eval $(ssh-agent -s)  # Inicia o ssh-agent
 2º passo:
 
 ssh-add ~/.ssh/id_rsa  # Adiciona a chave privada ao agente
+
+ASSISTIDA: 08/04/2025
+EXERCÍCIO: 08/04/2025
+REVISADA:  27/02/2026
 
 
 
