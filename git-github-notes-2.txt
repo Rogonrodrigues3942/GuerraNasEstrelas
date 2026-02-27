@@ -570,7 +570,7 @@ $ git checkout novo-branch
 
 ASSISTIDA: 24/04/2025
 EXERCÍCIO: 24/04/2025
-REVISADA:  xx/02/2026
+REVISADA:  27/02/2026
 
 ---------------------------------------------------------
 24/04/2025 - Aula 23 - Exercício de Branchs
@@ -580,10 +580,9 @@ Não é necessário realizar push a cada commit realizado.
 Também é recomendável criar a nova branch no GitHub (repositório remoto).
 
 
-
-
 ASSISTIDA: 24/04/2025
 EXERCÍCIO: 24/04/2025
+REVISADA:  27/02/2026
 
 ----------------------------------------------------------
 
@@ -644,6 +643,7 @@ $ git push
 
 ASSISTIDA: 24/04/2025
 EXERCÍCIO: 24/04/2025
+REVISADA:  27/02/2026
 
 
 ----------------------------------------------------------
