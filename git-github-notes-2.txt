@@ -457,6 +457,13 @@ Introdução do tema conflitos. (27/02/2026)
 
 Rever aula, interessante o assuntos.
 
+ASSISTIDA: 09/04/2025
+EXERCÍCIO: 09/04/2025
+REVISADA:  27/02/2026
+
+Está aula gerou o problema, o conflito.  Na próxima aula terá a solução do conflito.
+
+
 ----------------------------------------------------------
 
 09/04/2025 - Aula 20 - Resolvendo conflitos com Merge
