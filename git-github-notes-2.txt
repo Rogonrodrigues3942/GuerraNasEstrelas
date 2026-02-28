@@ -664,6 +664,11 @@ rebase: reaplica os commits um por um por cima da outra branch, criando um hist�
 ASSISTIDA: 25/04/2025
 EXERCÍCIO: 25/04/2025
 REVISTA: 26/04/2025
+REVISADA: 28/02/2026
+
+Notas:
+
+Aula teórica; apresentando a explicação de como o comando " git rebase " funciona. Realinhandoos commits em uma sequência linear, o visual de ramificação desaparece.
 
 ----------------------------------------------------------
 25/04/2025 - Aula 26 - Exercício de Rebase
