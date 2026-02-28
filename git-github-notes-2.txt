@@ -712,8 +712,8 @@ REVISADA: 28/02/2026
 26/04/2025 - Aula 27 - Git Fetch
 
 
-ASSISTIDA: XX/0X/2025
-EXERCÍCIO: XX/0X/2025
+ASSISTIDA: 26/04/2025
+EXERCÍCIO: 26/04/2025
 REVISADA: 28/02/2026
 
 
@@ -748,11 +748,19 @@ A
 28/02/2025 - Aula 28 - Tags
 
 
-ASSISTIDA: XX/0X/2025
-EXERCÍCIO: XX/0X/2025
+ASSISTIDA: 28/02/2025
+EXERCÍCIO: 28/02/2025
+REVISADA: 28/02/2026
 
+Notas:
+
+As tags servem para marcar versões do projetos que estejam funcionais e bem consolidados.
+
+A seção 4: Branching, Merge e Rebase - é uma sessão interessante, principalmente quando se trata de trabalhar em conjunto com outros devs.
 
 ----------------------------------------------------------
+
+REVER A SEÇÃO 
 
 *** Fim  da Seção 4***
 
