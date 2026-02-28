@@ -705,6 +705,8 @@ $ git checkout branch2
 
 ASSISTIDA: 25/04/2025
 EXERCÍCIO: 26/04/2025
+REVISADA: 28/02/2026
+
 ----------------------------------------------------------
 
 26/04/2025 - Aula 27 - Git Fetch
@@ -712,6 +714,8 @@ EXERCÍCIO: 26/04/2025
 
 ASSISTIDA: XX/0X/2025
 EXERCÍCIO: XX/0X/2025
+REVISADA: 28/02/2026
+
 
 O comando "git fetch" só olha o que mudou no GitHub (ou outro repositório remoto) e traz essas mudanças para o seu repositório local, mas não altera seus arquivos nem junta nada ainda.
 
