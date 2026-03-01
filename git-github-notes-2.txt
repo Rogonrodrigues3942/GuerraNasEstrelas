@@ -788,11 +788,17 @@ Aula teórica. Explanando sobre a melhor interface gráfica para utilizar. Opç�
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 31 - Dando estrelas e seguindo no Github.
+01/03/2025 - Aula 31 - Dando estrelas e seguindo no Github.
 
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA: 01/03/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Aula teórica.
+Explicando sobre a rede social dp github.
+Perfis que poderá seguir.
+Como deixar configurado, usar como portfolio de seus projetos.
 
 ----------------------------------------------------------
 
