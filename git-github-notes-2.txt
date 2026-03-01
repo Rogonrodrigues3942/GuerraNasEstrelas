@@ -767,19 +767,24 @@ REVER A SEÇÃO
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 5: Colaboração com Open Source
+01/03/2026 - Aula 29 - Introdução à aula.
 
-xx/xx/2025 - Aula 29 - Introdução à aula.
-
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA:01/03/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Aula de apresentação. Explanação do plano de aula para seção 5. Não há exercícicos.
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 30 - Interfaces gráficas.
+01/03/2026 - Aula 30 - Interfaces gráficas.
 
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA: 01/03/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Aula teórica. Explanando sobre a melhor interface gráfica para utilizar. Opção para quem não quer trabalhar com o terminal.
 
 ----------------------------------------------------------
 
