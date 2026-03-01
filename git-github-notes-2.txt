@@ -864,6 +864,9 @@ Notas:
 
 Rever aula. Absorver melhor os conceitos.
 
+Aula teórica.
+Explicando a utilizado do pull request.
+
 ----------------------------------------------------------
 
 Review all section #5.
