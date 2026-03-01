@@ -844,12 +844,15 @@ Rever posteriormente e inserir meus dados no quadro de participação do curso.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 35 - Verificando e aceitando pull request
+01/03/2026 - Aula 35 - Verificando e aceitando pull request
 
-ASSISTIDA: xx/xx/2026
+ASSISTIDA: 01/03/2026
 EXERCÍCIO: xx/xx/2026
 REVISADA: xx/0xx2/2026
 
+Notas:
+
+Rever aula. Absorver melhor os conceitos.
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 36 - Caso de exemplo em open source
