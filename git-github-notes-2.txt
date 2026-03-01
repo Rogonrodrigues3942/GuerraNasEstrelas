@@ -768,76 +768,144 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 5: Colaboração com Open Source
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 29 - Introdução à aula.
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 30 - Interfaces gráficas.
 
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 31 - Dando estrelas e seguindo no Github.
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 32 - Forks e issues
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 33 - Pull request e workflow do Github.
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
+xx/xx/2025 - Aula 34 - Projeto final do curso
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 35 - Verificando e aceitando pull request
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 36 - Caso de exemplo em open source
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/xx/2026
+
+----------------------------------------------------------
+
+*** Fim  da Seção 5 ***
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 6: Além do Básico
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 37 - Git ignore
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 38 - Commit amend
 
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 39 - Stash
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 40 - Cherrypick e blame
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 41 - Bisect e Exercício
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
+xx/xx/2025 - Aula 42 GitHub pages
 
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
+----------------------------------------------------------
 
+xx/xx/2025 - Aula 43 - GitHub e milestones
 
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
 
+----------------------------------------------------------
 
+xx/xx/2025 - Aula 44 - Webhooks
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula GitKraken GUI
+
+ASSISTIDA: xx/xx/2026
+EXERCÍCIO: xx/xx/2026
+REVISADA: xx/0xx2/2026
+
+----------------------------------------------------------
+
+*** Fim  da Seção 6 e do curso ***
