@@ -801,12 +801,18 @@ Perfis que poderá seguir.
 Como deixar configurado, usar como portfolio de seus projetos.
 
 ----------------------------------------------------------
+01/03/2026 - Aula 32 - Forks e issues
 
-xx/xx/2025 - Aula 32 - Forks e issues
-
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA: 01/03/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Aula teórica.
+Explicou sobre fork.
+Explicou sobre issue.
+
+Rever a aula.
 
 ----------------------------------------------------------
 
