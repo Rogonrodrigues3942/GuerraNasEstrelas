@@ -831,11 +831,17 @@ Rever aula e se aprofundar no assunto "pull request".
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 34 - Projeto final do curso
+01/03/2025 - Aula 34 - Projeto final do curso
 
-ASSISTIDA: xx/xx/2026
+ASSISTIDA: 01/03/2026
 EXERCÍCIO: xx/xx/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Aula teórica.
+Interessante apresentação de um projeto de menção de participação do curso do Orlandi.
+Rever posteriormente e inserir meus dados no quadro de participação do curso.
 
 ----------------------------------------------------------
 
