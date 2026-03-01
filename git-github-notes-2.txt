@@ -854,14 +854,19 @@ Notas:
 
 Rever aula. Absorver melhor os conceitos.
 ----------------------------------------------------------
+01/03/2026 - Aula 36 - Caso de exemplo em open source
 
-xx/xx/2025 - Aula 36 - Caso de exemplo em open source
-
-ASSISTIDA: xx/xx/2026
+ASSISTIDA: 01/03/2026
 EXERCÍCIO: xx/xx/2026
 REVISADA: xx/xx/2026
 
+Notas:
+
+Rever aula. Absorver melhor os conceitos.
+
 ----------------------------------------------------------
+
+Review all section #5.
 
 *** Fim  da Seção 5 ***
 
