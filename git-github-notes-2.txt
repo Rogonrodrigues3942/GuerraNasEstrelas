@@ -816,11 +816,18 @@ Rever a aula.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 33 - Pull request e workflow do Github.
+01/03/2025 - Aula 33 - Pull request e workflow do Github.
 
-ASSISTIDA: xx/xx/2026
+ASSISTIDA: 01/03/2026
 EXERCÍCIO: xx/xx/2026
-REVISADA: xx/0xx2/2026
+REVISADA: xx/xx/2026
+
+Notas:
+
+Aula teórica.
+Explicou a funcionalidade do  "pull request". Maior funcionalidade é iteratividade com os participantes de um projeto.
+
+Rever aula e se aprofundar no assunto "pull request".
 
 ----------------------------------------------------------
 
