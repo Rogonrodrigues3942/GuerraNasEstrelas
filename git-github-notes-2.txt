@@ -900,7 +900,7 @@ REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula GitKraken GUI
+xx/xx/2025 - Aula 45 - GitKraken GUI
 
 ASSISTIDA: xx/xx/2026
 EXERCÍCIO: xx/xx/2026
