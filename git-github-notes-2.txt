@@ -877,26 +877,33 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 6: Além do Básico
 
-xx/xx/2025 - Aula 37 - Git ignore
+02/03/2026 - Aula 37 - Git ignore
 
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA: 02/03/2026
 REVISADA: xx/0xx2/2026
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 38 - Commit amend
+02/03/2026 - Aula 38 - Commit amend
 
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA: 02/03/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Comando interessante, permite configurar e/ou corrigir o útlimo commit.
+
+Reassistir  a aula. Fazer o exercício.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 39 - Stash
+02/03/2026 - Aula 39 - Stash
 
-ASSISTIDA: xx/xx/2026
-EXERCÍCIO: xx/xx/2026
+ASSISTIDA: 02/03/2026
 REVISADA: xx/0xx2/2026
+
+Notas: 
+
+Fazer a aula, importante os conceitos.
 
 ----------------------------------------------------------
 
