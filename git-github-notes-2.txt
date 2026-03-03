@@ -880,13 +880,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 02/03/2026 - Aula 37 - Git ignore
 
 ASSISTIDA: 02/03/2026
-REVISADA: xx/0xx2/2026
+REVISADA: 03/03/2026
 
 ----------------------------------------------------------
 02/03/2026 - Aula 38 - Commit amend
 
 ASSISTIDA: 02/03/2026
-REVISADA: xx/0xx2/2026
+REVISADA: 03/03/2026
 
 Notas:
 
@@ -899,7 +899,7 @@ Reassistir  a aula. Fazer o exercício.
 02/03/2026 - Aula 39 - Stash
 
 ASSISTIDA: 02/03/2026
-REVISADA: xx/0xx2/2026
+REVISADA: 03/03/2026
 
 Notas: 
 
