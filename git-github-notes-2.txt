@@ -900,6 +900,7 @@ Reassistir  a aula. Fazer o exercício.
 
 ASSISTIDA: 02/03/2026
 REVISADA: 03/03/2026
+EXERCICIOS: 03/03/2026
 
 Notas: 
 
@@ -907,19 +908,23 @@ Fazer a aula, importante os conceitos.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 40 - Cherrypick e blame
+03/03/2026 - Aula 40 - Cherrypick e blame
 
-ASSISTIDA: xx/xx/2026
+ASSISTIDA: 03/03/2026
 EXERCÍCIO: xx/xx/2026
-REVISADA: xx/0xx2/2026
+REVISADA: xx/xx/2026
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 41 - Bisect e Exercício
+03/03/2025 - Aula 41 - Bisect e Exercício
 
-ASSISTIDA: xx/xx/2026
+ASSISTIDA: 03/03/2026
 EXERCÍCIO: xx/xx/2026
 REVISADA: xx/0xx2/2026
+
+Notas:
+
+Acessar plataforma de testes: www.git-game.com; aplicar comandos git"
 
 ----------------------------------------------------------
 
